@@ -1,0 +1,7 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "eth-crypto": "^2.1.0",
+    "request": "^2.88.2",
+  }
+}
